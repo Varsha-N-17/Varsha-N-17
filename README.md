@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hey 👋 What's up?</h2>
 
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdata-science&psig=AOvVaw2RUzyO_pGbD9PfEwxwyb_W&ust=1733824437235000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD5l861mooDFQAAAAAdAAAAABAR" />
+  <img height="1050" width="1150" src="DataGithub.jpg" />
 </div>
 <h1 align="left"> Welcome to My Github Profile</h1>
 
@@ -33,8 +33,26 @@ My expertise lies in aligning analytics with business objectives, enabling organ
 <h2 align="left">👩‍💻 About me</h2>
 
 ###
+- 🌟 **Systems Engineer at Infosys**  
+- 🎯 Passionate about **Data Analysis, Visualization**  
+- 🔍 Continuously learning and exploring new technologies  
+- 🚀 Currently working on **Portfolio Projects**
+- ✨ Practicing Code in LeetCode Platform
+- 📚 Currently learning Python 
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
+
+## 🛠️ Skills  
+- **SQL**  
+- **Power BI**  
+- **Python**  
+- **MS Excel**    
+- **Data Analysis**  
+- **Business Analysis**  
+
+---
+
+
 
 ###
 
@@ -43,21 +61,12 @@ My expertise lies in aligning analytics with business objectives, enabling organ
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  /> <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />   <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" alt="Jupyter Notebook" />   <br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="Power BI" />   <br>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="30" alt="Excel" />
+
 </div>
 
 ###
