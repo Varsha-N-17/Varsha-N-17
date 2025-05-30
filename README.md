@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="left">Hey 👋 What's up?</h2>
 
 <div align="center">
-  <img height="1050" width="1150" src="DataGithub.jpg" />
+  <img height="650" width="750" src="DataGithub.jpg" />
 </div>
 <h1 align="left"> Welcome to My Github Profile</h1>
 
